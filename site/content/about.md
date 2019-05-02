@@ -1,8 +1,8 @@
 +++
-date = "2016-09-09T10:15:23-04:00"
+date = "2019-05-01"
 draft = false
 title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+## Entrain is a collaboration of passionate professionals focused on providing Fire Fighters with the safest and most realistic Fire Dynamics training available outside of a real fire. 
