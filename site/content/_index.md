@@ -12,7 +12,7 @@
 
 title: "EntrainPro"
 date: 2019-05-13:00:00-00:00
-copyright: "EntrainPro"
+copyright: "Entrain Software Inc."
 text: <p>"My worst day possible" by Big Whiskey is licensed under CC BY-NC-ND 2.0</p>'
 #mapsapikey: xxx
 
@@ -41,5 +41,5 @@ download:
 
 contact:
     header: "Contact Information"
-    text: '<p>Kevin MacPhail is a Mechanical Engineer with a professional background in Aerospace, Software Development and Visual Effects.  Kevin is a passionate volunteer Firefighter with NFPA 1001 Firefighter I & II and NFPA 472 Hazardous Materials Technician certifications, and a Fire Service instructor for the PEIFFA.</p> <p>Dustin Sparks is a technology and management extraordinaire.  His career has seen him deliver projects and titles in numerous industries with companies ranging from startup/indie development through to the largest company in the world.  Over the past 6 years he has built and continues to run a successful technology consulting company which has helped numerous clients in varied industries; including architecture, design, implementation, and delivery of a Platform as a Service (PaaS) in the Mixed Reality space.  Dustin is able to bring out the best in teams and see clear paths to delivery.  Dustin is also a technology advocate and has founded communities, such as PEI Developers, that have grown knowledge and industry in Eastern Canada.</p> <p>Feel free to contact Kevin at <a href = "mailto: kevinmacphail@yahoo.com">kevinmacphail@yahoo.com</a> for more information.</p>'
+    text: '<p>Kevin MacPhail is a Mechanical Engineer with a professional background in Aerospace, Software Development and Visual Effects.  Kevin is a passionate volunteer Firefighter with NFPA 1001 Firefighter I & II and NFPA 472 Hazardous Materials Technician certifications, and a Fire Service instructor for the PEIFFA.</p> <p>Dustin Sparks is a technology and management extraordinaire.  His career has seen him deliver projects and titles in numerous industries with companies ranging from startup/indie development through to the largest company in the world.  Over the past 6 years he has built and continues to run a successful technology consulting company which has helped numerous clients in varied industries; including architecture, design, implementation, and delivery of a Platform as a Service (PaaS) in the Mixed Reality space.  Dustin is able to bring out the best in teams and see clear paths to delivery.  Dustin is also a technology advocate and has founded communities, such as PEI Developers, that have grown knowledge and industry in Eastern Canada.</p> <p>Feel free to contact us at <a href = "mailto: info@entrainpro.com">info@entrainpro.com</a> for more information.</p>'
 ---
