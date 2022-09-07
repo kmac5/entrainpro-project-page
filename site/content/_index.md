@@ -41,5 +41,5 @@ download:
 
 contact:
     header: "Contact Information"
-    text: '<p>Kevin MacPhail is a Mechanical Engineer with a professional background in Aerospace, Software Development and Visual Effects.  Kevin is a passionate volunteer Firefighter with the North River Fire Department and holds NFPA 1001 Firefighter II, NFPA 472 Hazardous Materials Technician and NFPA 1041 Fire Service Instructor Level II certifications.</p> <p>Feel free to contact us at <a href = "mailto: info@entrainpro.com">info@entrainpro.com</a> for more information.</p>'
+    text: '<p>Kevin MacPhail is a Mechanical Engineer with a professional background in Aerospace, Software Development and Visual Effects.  Kevin is an active volunteer Firefighter with the North River Fire Department and holds NFPA 1001 Firefighter II, NFPA 472 Hazardous Materials Technician and NFPA 1041 Fire Service Instructor Level II certifications.</p> <p>Feel free to contact us at <a href = "mailto: info@entrainpro.com">info@entrainpro.com</a> for more information.</p>'
 ---
